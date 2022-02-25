@@ -1,2 +1,2 @@
 # Gauss-jordan-input-.txt-file
-Gauss jordan for 10x10
+Gauss jordan elimination for matrix 10x10
